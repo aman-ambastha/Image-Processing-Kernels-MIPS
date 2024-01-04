@@ -1,3 +1,3 @@
-This Project Involves Low Level Programming In MIPS.
+This Project Involves Low-Level Programming In MIPS.
 I Did This Project As A Lab In My CS240 Class At SDSU.
-The Project Involves Processing Image Pixels.
+The Project Involves Processing Image Pixels. View The Image Processing Kernels MIPS For More Details.
